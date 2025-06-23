@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #343a40;
+    padding: 10px 20px;
+}
+
+.navbar h3 {
+    color: white;
+    margin: 0;
+}
+
+.home-button {
+    background-color: #ffffff;
+    color: #343a40;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.home-button:hover {
+    background-color: #dddddd;
+}
