@@ -71,7 +71,6 @@ Open your browser at: http://localhost:5173
 
 ### 🧪 API Endpoints
 
-```
 | Method | Endpoint                   | Description              |
 | ------ | -------------------------- | ------------------------ |
 | POST   | `/employee/add`            | Add new employee         |
@@ -79,7 +78,6 @@ Open your browser at: http://localhost:5173
 | GET    | `/employee/get`            | Get all employees        |
 | PUT    | `/employee/edit/{email}`   | Update employee by email |
 | DELETE | `/employee/delete/{email}` | Delete employee by email |
-```
 
 Learn and Enjoy 
 -@123codingmsk
